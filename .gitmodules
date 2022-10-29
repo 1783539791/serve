@@ -1,0 +1,6 @@
+[submodule "libcommon"]
+	path = libcommon
+	url = git@github.com:1783539791/libcommon.git
+[submodule "src/libcommon"]
+	path = src/libcommon
+	url = git@github.com:1783539791/libcommon.git
